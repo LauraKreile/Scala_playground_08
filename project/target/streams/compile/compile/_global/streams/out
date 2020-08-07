@@ -1,0 +1,25 @@
+[error] C:\Users\Laura Kreile\IdeaProjects\Scala_playground_08\project\project.scala:2:3: expected class or object definition
+[error]   val myName = "Laura" //string is implicit
+[error]   ^
+[error] C:\Users\Laura Kreile\IdeaProjects\Scala_playground_08\project\project.scala:3:3: expected class or object definition
+[error]   println(myName)
+[error]   ^
+[error] C:\Users\Laura Kreile\IdeaProjects\Scala_playground_08\project\project.scala:4:3: expected class or object definition
+[error]   myName.length
+[error]   ^
+[error] C:\Users\Laura Kreile\IdeaProjects\Scala_playground_08\project\project.scala:5:3: expected class or object definition
+[error]   myName(0)
+[error]   ^
+[error] C:\Users\Laura Kreile\IdeaProjects\Scala_playground_08\project\project.scala:6:3: expected class or object definition
+[error]   myName(1)
+[error]   ^
+[error] C:\Users\Laura Kreile\IdeaProjects\Scala_playground_08\project\project.scala:7:3: expected class or object definition
+[error]   5 > 2*2
+[error]   ^
+[error] C:\Users\Laura Kreile\IdeaProjects\Scala_playground_08\project\project.scala:8:3: expected class or object definition
+[error]   "L" > "a"
+[error]   ^
+[error] C:\Users\Laura Kreile\IdeaProjects\Scala_playground_08\project\project.scala:9:3: expected class or object definition
+[error]   "L" > "A"
+[error]   ^
+[error] 8 errors found
